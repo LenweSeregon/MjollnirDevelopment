@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.fafnir.mjollnir": {
-      "version": "file:C:/Users/serfn/Desktop/UnityEngine/com.fafnir.mjollnir",
+      "version": "file:../../Mjollnir",
       "depth": 0,
       "source": "local",
       "dependencies": {}
